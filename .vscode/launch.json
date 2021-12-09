@@ -5,6 +5,12 @@
             "name": "https://www.google.com/search?client=safari&rls=en&q=html+vscode+beautifier&ie=UTF-8&oe=UTF-8",
             "request": "launch",
             "url": "https://www.google.com/search?client=safari&rls=en&q=html+vscode+beautifier&ie=UTF-8&oe=UTF-8"
+        },
+        {
+            "type": "pwa-chrome",
+            "name": "localhost:8080",
+            "request": "launch",
+            "url": "localhost:8080"
         }
     ]
 }
